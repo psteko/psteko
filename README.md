@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Petra
 
-<!--
-**psteko/psteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Embedded Software Engineer | ⚙️ Vehicle Electronics & Real-Time Systems
 
-Here are some ideas to get you started:
+I develop bare-metal firmware for microcontroller-based systems, specializing in real-time applications, communication protocols, and performance optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Focus
+
+**Embedded Systems**
+- ARM Cortex-M microcontrollers
+- Single and multi-core applications
+- Bare-metal firmware development
+- Real-time systems
+
+**Communication & Protocols**
+- Automotive communication protocols
+- Sensor interfaces and signal processing
+- Hardware peripheral integration
+
+**Low-Level Programming**
+- Hardware abstraction and driver development
+- Interrupt-driven architectures
+- Performance optimization
+
+### 🛠️ Tools & Environment
+
+```
+Languages:     Embedded C/C++, Shell scripting
+Build Systems: Make, CMake, CI/CD 
+Debugging:     JTAG/SWO, TRACE32
+Standards:     ISO26262: Automotive functional safety
+```
+
+### 🚀 Areas of Interest
+
+- Performance optimization and resource-efficient design
+- Communication protocol implementation
+- Multi-core embedded systems
+- Hardware-software integration
+
+### 📫 Let's Connect
+
+Open to discussions about embedded systems, electronics, firmware development, and optimization techniques.
+
+---
+
+*Building efficient and reliable embedded systems*
