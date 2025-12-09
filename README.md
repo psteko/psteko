@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Petra
 
-## Embedded Software Engineer | ⚙️ Vehicle Electronics & Real-Time Systems
+## ⚡Embedded Software Engineer | ⚙️ Vehicle Electronics & Real-Time Systems
 
 I develop bare-metal firmware for microcontroller-based systems, specializing in real-time applications, communication protocols, and performance optimization.
 
@@ -31,8 +31,9 @@ Debugging:     JTAG/SWO, TRACE32
 Standards:     ISO26262: Automotive functional safety
 ```
 
-### 🚀 Areas of Interest
+### 🏎️ Areas of Interest
 
+- Vehicle electronics 
 - Performance optimization and resource-efficient design
 - Communication protocol implementation
 - Multi-core embedded systems
