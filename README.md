@@ -20,10 +20,10 @@ Build Systems: Make, CMake, CI/CD
 Debugging:     JTAG/SWD, SWO, TRACE32
 Protocols:     I2C, SPI, UART, Wi-Fi, RS-232/RS-458, TCP/IP, CAN, SENT
 ```
-### 🏎️ Areas of Interest
+### 🚀 Areas of Interest
 Highly interested in low-level programming and system-level development, especially in the vehicle industry.
 
-### 🎯 Beyond Code
+### 🏝️ Beyond Code
 
 When I'm not debugging firmware, you'll find me:
 - 🏋️ Staying active
