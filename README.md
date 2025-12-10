@@ -9,6 +9,7 @@ I develop bare-metal firmware for microcontroller-based systems, specializing in
 - Bare-metal firmware development
 - Basic Software and Bootloaders
 - Real-time & control systems
+
 **Communication & Protocols**
 - Automotive communication protocols
 - Sensor interfaces and signal processing
