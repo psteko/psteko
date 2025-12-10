@@ -1,43 +1,37 @@
 # 👋 Hi, I'm Petra
 
-## ⚡Embedded Software Engineer | ⚙️ Vehicle Electronics & Real-Time Systems
+## ⚡Embedded Software Engineer | ⚙️ Vehicle Electronics & Control Systems
 
+I'm a dedicated Embedded Software Developer with a background in both hardware and software development, working in the vehicle industry.
 I develop bare-metal firmware for microcontroller-based systems, specializing in real-time applications, communication protocols, and performance optimization.
 
 ### 🔧 Technical Focus
 
 **Embedded Systems**
-- ARM Cortex-M microcontrollers
+- ARM Cortex-M, DSP, and AVR architecture microcontrollers
 - Single and multi-core applications
 - Bare-metal firmware development
-- Real-time systems
+- Basic Software and Bootloaders
+- Real-time & control systems
 
 **Communication & Protocols**
 - Automotive communication protocols
 - Sensor interfaces and signal processing
 - Hardware peripheral integration
 
-**Low-Level Programming**
-- Hardware abstraction and driver development
-- Interrupt-driven architectures
-- Performance optimization
 
 ### 🛠️ Tools & Environment
 
 ```
 Languages:     Embedded C/C++, Shell scripting
 Build Systems: Make, CMake, CI/CD 
-Debugging:     JTAG/SWO, TRACE32
-Standards:     ISO26262: Automotive functional safety
+Debugging:     JTAG/SWD, SWO, TRACE32
+Protocols:     I2C, SPI, UART, Wi-Fi, RS-232/RS-458, TCP/IP, CAN, SENT
 ```
 
 ### 🏎️ Areas of Interest
 
-- Vehicle electronics 
-- Performance optimization and resource-efficient design
-- Communication protocol implementation
-- Multi-core embedded systems
-- Hardware-software integration
+Highly interested in low-level programming and system-level development, especially in the vehicle industry.
 
 ### 📫 Let's Connect
 
